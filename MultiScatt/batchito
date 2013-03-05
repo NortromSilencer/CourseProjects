@@ -1,0 +1,98 @@
+# este batch se invoca ./batchito &> log &
+sdir='./'
+i='1' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='2' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='3' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='4' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='5' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='6' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='7' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'
+i='8' 
+echo empezo corrida $i
+date
+$sdir'mcmari2011r.exe' &> $sdir'c'$i &
+wait
+echo termino corrida $i
+date
+mv -v $sdir'MCSMR00.LOG' $sdir'MCSMR00.LOG'$i
+cp -v $sdir'MCSMR00.OUT' $sdir'MCSMR00.OUT'$i
+$sdir'comari2011.exe' $i 16639
+wait
+cp -v $sdir'S16639.SQE'$i $sdir'S16639.SQE'

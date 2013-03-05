@@ -1,0 +1,18 @@
+#! /bin/sh
+# $Id: infobox4,v 1.2 2003/08/15 19:40:37 tom Exp $
+: ${DIALOG=dialog}
+
+exec 3< info.dat
+read <&3 n1
+read <&3 n2
+read <&3 n3
+read <&3 n4
+read <&3 n5
+read <&3 n6
+read <&3 n7
+read <&3 n8
+read <&3 n9
+
+$DIALOG  --shadow --colors --begin 10 20 \
+	--title "Programa Mcmari2011" \
+      --infobox " $n1 \n $n2 \n $n3 \n $n4 \n $n5 \n $n6 \n $n7 \n $n8 \n $n9" 0 0

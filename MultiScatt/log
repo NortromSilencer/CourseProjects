@@ -1,0 +1,64 @@
+empezo corrida 1
+sáb mar 10 12:29:42 ART 2012
+termino corrida 1
+sáb mar 10 12:29:56 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG1»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT1»
+./batchito: línea 12: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE1»: No existe el fichero o el directorio
+empezo corrida 2
+sáb mar 10 12:29:57 ART 2012
+termino corrida 2
+sáb mar 10 12:30:12 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG2»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT2»
+./batchito: línea 24: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE2»: No existe el fichero o el directorio
+empezo corrida 3
+sáb mar 10 12:30:13 ART 2012
+termino corrida 3
+sáb mar 10 12:30:27 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG3»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT3»
+./batchito: línea 36: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE3»: No existe el fichero o el directorio
+empezo corrida 4
+sáb mar 10 12:30:27 ART 2012
+termino corrida 4
+sáb mar 10 12:30:42 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG4»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT4»
+./batchito: línea 48: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE4»: No existe el fichero o el directorio
+empezo corrida 5
+sáb mar 10 12:30:42 ART 2012
+termino corrida 5
+sáb mar 10 12:30:53 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG5»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT5»
+./batchito: línea 60: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE5»: No existe el fichero o el directorio
+empezo corrida 6
+sáb mar 10 12:30:53 ART 2012
+termino corrida 6
+sáb mar 10 12:31:08 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG6»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT6»
+./batchito: línea 72: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE6»: No existe el fichero o el directorio
+empezo corrida 7
+sáb mar 10 12:31:08 ART 2012
+termino corrida 7
+sáb mar 10 12:31:22 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG7»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT7»
+./batchito: línea 84: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE7»: No existe el fichero o el directorio
+empezo corrida 8
+sáb mar 10 12:31:22 ART 2012
+termino corrida 8
+sáb mar 10 12:31:35 ART 2012
+«./MCSMR00.LOG» -> «./MCSMR00.LOG8»
+«./MCSMR00.OUT» -> «./MCSMR00.OUT8»
+./batchito: línea 96: ./comari2011.exe: No existe el fichero o el directorio
+cp: no se puede efectuar `stat' sobre «./S16639.SQE8»: No existe el fichero o el directorio

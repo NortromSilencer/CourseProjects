@@ -1,0 +1,26 @@
+ SEMILLA INICIAL=   9796.28595648532     
+ Agua en MARI E=250 meV T=300 K               
+ S16639.SQE                                   
+ S16646.SQE                                   
+ Nº de ciclos    1
+ Nº de neutrones por ciclo      5
+ Diametro externo can externo  4.500
+ Diametro interno can externo  4.400
+ Altura can externo  4.940
+ Espesor tapa can externo  1.000
+ Diametro externo can interno  4.300
+ Diametro interno can interno  4.200
+ Altura can interno  4.940
+ Espesor tapa can interno  0.000
+ Altura del haz  4.940 cm
+ Ancho del haz  4.500 cm
+ Energía incidente  2.44000E-01
+ Longitud de vuelo saliente  4.02000E+02
+ Peso de corte  1.000E-06
+ Continuación   0
+sh: ./infobox4: not found
+ ALFA MUESTRA=    28.4792096413836     
+ ALFA MUESTRA=   0.999999999999999     
+ ALFA CAN=    5.49552757551958     
+ ALFA CAN=    1.00000000000000     
+sh: ./infobox4: not found
