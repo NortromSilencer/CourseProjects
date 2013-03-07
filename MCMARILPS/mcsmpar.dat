@@ -1,0 +1,20 @@
+Agua en MARI E=250 meV T=300 K
+S16639.SQE
+S16646.SQE
+1            !Nº de ciclos
+5            !Nº de neutrones por ciclo
+4.5d0        ! Diametro externo del can externo
+4.4d0        ! Diametro interno del can externo
+4.94d0       ! Altura can externo
+1.0 d0       ! Espesor de las tapas del can externo
+4.3d0        ! Diametro externo del can interno
+4.2d0        ! Diametro interno del can interno
+4.94d0       ! Altura can interno
+0.0 d0       ! Espesor de las tapas del can interno
+4.94D0       ! Altura del haz (cm)
+4.5d0        ! Ancho del haz (cm)
+0.244d0      ! Energia incidente (eV)
+402.0d0      ! Longitud de vuelo saliente MARI (cm)
+1.D-06       ! Peso de corte
+0            ! Continuación
+
